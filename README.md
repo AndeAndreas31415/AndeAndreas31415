@@ -20,90 +20,97 @@
 		<tr>
 			<td>Arte</td>
 			<td>1-2</td>
-			<td>Carlsen</td>
+			<td><a href="https://www.carlsen.de/manga"> Carlsen </a></td>
 		</tr>
 		<tr>
 			<td>Bloom into you</td>
 			<td>1-7</td>
-			<td>Carlsen</td>
+			<td><a href="https://www.carlsen.de/manga"> Carlsen </a></td>
 		</tr>
 		<tr>
 			<td>Blue Exorcist</td>
 			<td>1-3</td>
-			<td>Kaze</td>
+			<td><a href="https://www.kaze-online.de/"> Kaze </a></td>
 		</tr>
 		<tr>
 			<td>Bottom-Tier</td>
 			<td>1</td>
-			<td>Yen On</td>
+			<td><a href="https://yenpress.com/">Yen On</a></td>
 		</tr>
 		<tr>
 			<td>Citrus</td>
 			<td>1-5</td>
-			<td>Tokyo Pop</td>
+			<td><a href="https://www.tokyopop.de/"> Tokyo Pop </a></td>
 		</tr>
 		<tr>
 			<td>Delicious in Dungeon</td>
 			<td>1</td>
-			<td>Egmont</td>
+			<td><a href="https://www.egmont-manga.de/"> Egmont </a></td>
 		</tr>
 		<tr>
 			<td>Die Braut des Magiers</td>
 			<td>1</td>
-			<td>Tokyo Pop</td>
+			<td><a href="https://www.tokyopop.de/"> Tokyo Pop </a></td>
 		</tr>
 		<tr>
 			<td>Elfen Lied</td>
 			<td>1</td>
-			<td>Tokyo Pop</td>
+			<td><a href="https://www.tokyopop.de/"> Tokyo Pop </a></td>
 		</tr>
 		<tr>
 			<td>Goblin Slayer (The singing Death)</td>
 			<td>1</td>
-			<td>Altraverse</td>
+			<td><a href="https://altraverse.de/"> Altraverse </a></td>
 		</tr>
 		<tr>
 			<td>I am Sherlock</td>
 			<td>1-4</td>
-			<td>Carlsen</td>
+			<td><a href="https://www.carlsen.de/manga"> Carlsen </a></td>
 		</tr>
 		<tr>
 			<td>Is it wrong to pick up Girls in a Dungeon</td>
 			<td>1-5</td>
-			<td>Kaze</td>
+			<td><a href="https://www.kaze-online.de/"> Kaze </a></td>
+		</tr>
+		<tr>
+			<td>Leseprobe Oktober_2020 - März_2021</td>
+			<td>free reading sample</td>
+			<td><a href="https://www.kaze-online.de/"> Kaze </a></td>
 		</tr>
 		<tr>
 			<td>Love and Lies</td>
 			<td>1-5</td>
-			<td>Kaze</td>
+			<td><a href="https://www.kaze-online.de/"> Kaze </a></td>
 		</tr>
 		<tr>
 			<td>Nur du darfst mich fesseln</td>
 			<td>1</td>
-			<td>Altraverse</td>
+			<td><a href="https://altraverse.de/"> Altraverse </a></td>
 		</tr>
 		<tr>
 			<td>Uzumaki</td>
 			<td>Delux Edition</td>
-			<td>Carlsen</td>
+			<td><a href="https://www.carlsen.de/manga"> Carlsen </a></td>
 		</tr>
 		<tr>
 			<td>Weathering with you</td>
 			<td>Roman</td>
-			<td>Egmont</td>
+			<td><a href="https://www.egmont-manga.de/"> Egmont </a></td>
 		</tr>
 		<tr>
 			<td>You shine in the Moonlight</td>
 			<td>1-2</td>
-			<td>Egmont</td>
+			<td><a href="https://www.egmont-manga.de/"> Egmont </a></td>
 		</tr>
 		<tr>
 			<td>Your Name</td>
 			<td>1-3</td>
-			<td>Egmont</td>
+			<td><a href="https://www.egmont-manga.de/"> Egmont </a></td>
 		</tr>
 	</table>
 </details>
+
+
 <details>
 	<summary>Comic</summary>
 	<table>
@@ -117,4 +124,3 @@
 		</tr>
 	</table>
 </details>
-
