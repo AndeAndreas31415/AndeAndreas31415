@@ -2,6 +2,8 @@
 
 # 👋 Hello i am Andranux
 
+<img src="https://img.shields.io/badge/Version-Alpha-red" style="zoom:150%;" align="left" />
+
 <h3>- 20 years old<br>
 - from Saxony , Germany<br>
 - ❤️ Anime and Manga</h3>
