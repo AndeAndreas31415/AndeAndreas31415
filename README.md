@@ -1,15 +1,13 @@
 # <b>Crazy you found me</b>
 
-# 👋 Hello i am Andranux
+<h1><u><b><i> All is Work in process </i></b></u></h1><img src="https://img.shields.io/badge/Version-Alpha-red" style="zoom:150%;" align="left" />
 
-<img src="https://img.shields.io/badge/Version-Alpha-red" style="zoom:150%;" align="left" />
+# 👋 Hello i am Andranux
 
 <h3>- 20 years old<br>
 - from Saxony , Germany<br>
 - ❤️ Anime and Manga</h3>
 <h4><b>や</b></h4>
-
-<h1><u><b><i> All is Work in process </i></b></u></h1>
 
 <details>
 	<summary>Manga</summary>
@@ -111,8 +109,6 @@
 		</tr>
 	</table>
 </details>
-
-
 <details>
 	<summary>Comic</summary>
 	<table>
@@ -126,3 +122,15 @@
 		</tr>
 	</table>
 </details>
+
+## Goals:
+- Short-Rofi add more Cheat sheet
+- nice [designe](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for this Readme
+- [Komorebi](https://github.com/Komorebi-Fork/komorebi/tree/master) <i>remove trash can</i>
+- work with [jikan](https://github.com/jikan-me/jikan)
+- beautiful Website
+- Lilygo t-watch 2020
+- written nice commits 😆
+- clean my Room 😅
+- finish Locktober 🔒
+
