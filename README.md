@@ -123,13 +123,14 @@
 	</table>
 </details>
 
-## Goals:
+## <u>in Planning</u> / <u>Goals:</u>
 - Short-Rofi add more Cheat sheet
 - nice [designe](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for this Readme
 - [Komorebi](https://github.com/Komorebi-Fork/komorebi/tree/master) <i>remove trash can</i>
 - work with [jikan](https://github.com/jikan-me/jikan)
 - beautiful Website
 - Lilygo t-watch 2020
+- 2 Android apps
 - written nice commits 😆
 - clean my Room 😅
 - finish Locktober 🔒
