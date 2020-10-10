@@ -1,13 +1,13 @@
 # <b>Crazy you found me</b>
 
-<h1><u><b><i> All is Work in process </i></b></u></h1><img src="https://img.shields.io/badge/Version-Alpha-red" style="zoom:150%;" align="left" />
+# 👋 Hello i am [Andranux](andranux.de)
 
-# 👋 Hello i am Andranux
+## About me:
 
-<h3>- 20 years old<br>
-- from Saxony , Germany<br>
-- ❤️ Anime and Manga</h3>
-<h4><b>や</b></h4>
+- 20 years old
+- from Saxony , Germany
+- ❤️ Anime and Manga や
+- [Music](https://www.youtube.com/playlist?list=PL4RUzjZMaUOWz5a1PEn0uYL1g_P02OPQN)
 
 <details>
 	<summary>Manga</summary>
@@ -109,30 +109,23 @@
 		</tr>
 	</table>
 </details>
+
 <details>
-	<summary>Comic</summary>
-	<table>
-		<tr>
-			<td><b>Name</b></td>
-			<td><b>Publisher</b></td>
-		</tr>
-		<tr>
-			<td>Der Oracle Code_</td>
-			<td>Panini-ink</td>
-		</tr>
-	</table>
+	<summary><u>in Planning</u> / <u>Goals:</u></summary>
+	- Short-Rofi add more Cheat sheet<br>
+	- nice <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">designe</a> for this Readme<br>
+	- <a href="https://github.com/Komorebi-Fork/komorebi/tree/master">Komorebi</a> <i>remove trash can</i><br>
+	- work with <a href="https://github.com/jikan-me/jikan">jikan</a><br>
+	- beautiful Website<br>
+	- Lilygo t-watch 2020<br>
+	- 2 Android apps<br>
+	- written nice commits 😆<br>
+	- clean my Room 😅<br>
+	- finish Locktober 🔒<br>
+	- and <a href="https://t.me/diyIdeeandra">more</a>
 </details>
 
-## <u>in Planning</u> / <u>Goals:</u>
-- Short-Rofi add more Cheat sheet
-- nice [designe](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for this Readme
-- [Komorebi](https://github.com/Komorebi-Fork/komorebi/tree/master) <i>remove trash can</i>
-- work with [jikan](https://github.com/jikan-me/jikan)
-- beautiful Website
-- Lilygo t-watch 2020
-- 2 Android apps
-- written nice commits 😆
-- clean my Room 😅
-- finish Locktober 🔒
-- and [more](https://t.me/diyIdeeandra)
 
+<h1><u><b><i> All is Work in process </i></b></u></h1>
+
+<a href="t.me/anno_pi"><img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;" /></a><img src="https://img.shields.io/badge/Version-Alpha-yellow" style="zoom:150%;" />
