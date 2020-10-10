@@ -134,4 +134,5 @@
 - written nice commits 😆
 - clean my Room 😅
 - finish Locktober 🔒
+- and [more](https://t.me/diyIdeeandra)
 
