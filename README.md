@@ -201,7 +201,7 @@
             	<td><div align="right"><a href="https://www.amazon.de/Weathering-You-Mädchen-berührte-Blu-ray/dp/B082PRBMQP">buy at Amazon</a></div></td>
     		</tr>
     	</table>
-</details></ol>
+</details></ol></details>
 
 <details>
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
