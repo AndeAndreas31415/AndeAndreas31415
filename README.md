@@ -221,5 +221,4 @@
 </details>
 <div align="center"><h1><u><b><i> All is Work in process </i></b></u></h1></div>
 
-<p align="center"><a href="t.me/anno_pi"><img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;" /></a><img src="https://img.shields.io/badge/Version-Alpha-yellow" style="zoom:150%;" /></p>
-
+<p align="center"><a href="t.me/anno_pi"><img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;" /></a> <img src="https://img.shields.io/badge/Version-Alpha-yellow" style="zoom:150%;" /></p>
