@@ -207,7 +207,6 @@
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
 	<ol>
     - Short-Rofi add more Cheat sheet<br>
-    - nice <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">designe</a> for this Readme<br>
     - <a href="https://github.com/Komorebi-Fork/komorebi/tree/master">Komorebi</a> <i>remove trash can</i><br>
     - work with <a href="https://github.com/jikan-me/jikan">jikan</a><br>
     - beautiful Website<br>
