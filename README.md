@@ -1,4 +1,4 @@
-# <b>Crazy you found me</b>
+# <div align="center"><b>Crazy you found me</b></div>
 
 # Hello 👋 I am [Andranux](andranux.de)
 
@@ -12,6 +12,15 @@
 <details>
 	<summary>Manga / Anime</summary>
     <ol>
+    <details>
+	    <summary><u>Wishes:</u></summary>
+	    <ol>
+		 -  Schulmädchen report (planet Manga)<br>
+		 -  Goblin slayer (Altraverse)<br>
+		 -  Kaguya sama (Egmont)<br>
+		 -  Soul Eater Massiv (Carlsen Manga)
+	    </ol>
+    </details>
     <details>
     	<summary><b>Manga:</b></summary>
 		<table>
