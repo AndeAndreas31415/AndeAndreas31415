@@ -1,6 +1,6 @@
 # <div align="center"><b>Crazy you found me</b></div>
 
-# Hello 👋 I am [Andranux](andranux.de)
+# Hello 👋 I am [Andranux](https://andranux.de/)
 
 ## About me:
 
