@@ -18,7 +18,8 @@
 		 -  Schulmädchen report (planet Manga)<br>
 		 -  Goblin slayer (Altraverse)<br>
 		 -  Kaguya sama (Egmont)<br>
-		 -  Soul Eater Massiv (Carlsen Manga)
+		 -  Soul Eater Massiv (Carlsen Manga)<br>
+		 -  Solo Leveling (Altraverse)
 	    </ol>
     </details>
     <details>
