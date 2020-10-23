@@ -19,7 +19,8 @@
 		 -  Goblin slayer (Altraverse)<br>
 		 -  Kaguya sama (Egmont)<br>
 		 -  Soul Eater Massiv (Carlsen Manga)<br>
-		 -  Solo Leveling (Altraverse)
+		 -  Solo Leveling (Altraverse)<br>
+		 -  Kaguya-sama Love is War Band (Egmont) 
 	    </ol>
     </details>
     <details>
