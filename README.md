@@ -17,110 +17,122 @@
 	    <ol>
 		 -  Schulmädchen report (planet Manga)<br>
 		 -  Goblin slayer (Altraverse)<br>
-		 -  Kaguya sama (Egmont)<br>
-		 -  Soul Eater Massiv (Carlsen Manga)<br>
 		 -  Solo Leveling (Altraverse)<br>
-		 -  Kaguya-sama Love is War Band (Egmont) 
 	    </ol>
     </details>
     <details>
     	<summary><b>Manga:</b></summary>
-		<table>
-			<tr>
-				<td><b>Name</b></td>
+    	<table>
+    		<tr>
+    			<td><b>Name</b></td>
             	<td><div align="center"><b>Band / Edition</b></div></td>
             	<td><div align="right"><b>Publisher</b></div></td>
-			</tr>
-			<tr>
-				<td>Arte</td>
-        	    <td><div align="center">1-2</div></td>
-				<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-			</tr>
-			<tr>
-				<td>Bloom into you</td>
-            	<td><div align="center">1-7</div></td>
-				<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-			</tr>
-			<tr>
-				<td>Blue Exorcist</td>
+    		</tr>
+    		<tr>
+    			<td>Arte</td>
+        	    <td><div align="center">1-3</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Bloom into you</td>
+            	<td><div align="center">1-8</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Blue Exorcist</td>
             	<td><div align="center">1-3</div></td>
-				<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-			</tr>
-			<tr>
-				<td>Bottom-Tier</td>
+    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Bottom-Tier</td>
             	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://yenpress.com/">Yen On</a></div></td>
-			</tr>
-			<tr>
-				<td>Citrus</td>
+    			<td><div align="right"><a href="https://yenpress.com/">Yen On</a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Citrus</td>
             	<td><div align="center">1-5</div></td>
-				<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-			</tr>
-			<tr>
-				<td>Delicious in Dungeon</td>
+    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Delicious in Dungeon</td>
             	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-			</tr>
-			<tr>
-				<td>Die Braut des Magiers</td>
+    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Die Braut des Magiers</td>
             	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-			</tr>
-			<tr>
-				<td>Elfen Lied</td>
-            	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-			</tr>
-			<tr>
-				<td>Goblin Slayer (The singing Death)</td>
-            	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
-			</tr>
-			<tr>
-				<td>I am Sherlock</td>
-            	<td><div align="center">1-4</div></td>
-				<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-			</tr>
-			<tr>
-				<td>Is it wrong to pick up Girls in a Dungeon</td>
-            	<td><div align="center">1-5</div></td>
-				<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-			</tr>
-			<tr>
-				<td>Leseprobe Oktober_2020 - März_2021</td>
-            	<td><div align="center">free reading sample</div></td>
-				<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-			</tr>
-			<tr>
-				<td>Love and Lies</td>
-            	<td><div align="center">1-5</div></td>
-				<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-			</tr>
-			<tr>
-				<td>Nur du darfst mich fesseln</td>
-            	<td><div align="center">1</div></td>
-				<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
-			</tr>
-			<tr>
-				<td>Uzumaki</td>
-            	<td><div align="center">Delux Edition</div></td>
-				<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-			</tr>
-			<tr>
-				<td>Weathering with you</td>
-            	<td><div align="center">Roman</div></td>
-				<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-			</tr>
-			<tr>
-				<td>You shine in the Moonlight</td>
+    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Elfen Lied</td>
             	<td><div align="center">1-2</div></td>
-				<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-			</tr>
-			<tr>
-				<td>Your Name</td>
+    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Goblin Slayer (The singing Death)</td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>I am Sherlock</td>
+            	<td><div align="center">1-4</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Is it wrong to pick up Girls in a Dungeon</td>
+            	<td><div align="center">1-5</div></td>
+    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
+    		</tr>
+            <tr>
+    			<td>Kaguya-sama: Love is ware</td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Leseprobe</td>
+            	<td><div align="center">free reading sample</div></td>
+    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Leseprobe Oktober_2020 - März_2021</td>
+            	<td><div align="center">free reading sample</div></td>
+    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Love and Lies</td>
+            	<td><div align="center">1-5</div></td>
+    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Nur du darfst mich fesseln</td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Soul Eater Massiv </td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Uzumaki</td>
+            	<td><div align="center">Delux Edition</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Weathering with you</td>
+            	<td><div align="center">Roman</div></td>
+    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>You shine in the Moonlight</td>
+            	<td><div align="center">1-2</div></td>
+    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Your Name</td>
             	<td><div align="center">1-3</div></td>
             	<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-			</tr>
+    		</tr>
         </table>
     </details>
     <details>
