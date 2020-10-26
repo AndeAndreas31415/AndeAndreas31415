@@ -18,6 +18,14 @@
 		 -  Schulmädchen report (planet Manga)<br>
 		 -  Goblin slayer (Altraverse)<br>
 		 -  Solo Leveling (Altraverse)<br>
+		 -  Attack on Titan Band (Carlsen)<br>
+		 -  Fairy Tail (Carlsen)<br>
+		 -  Dr. Stone (Carlsen)<br>
+		 -  Fullmetal Alchemist Metal Edition (Altraverse)<br>
+		 -  The Irregular at Magic High School (KSM Anime)<br>
+		 -  Cowboy Bebop - Gesamtausgabe (Nipponart)<br>
+		 -  Spriggan<br>
+		 -  Perfect Blue<br>
 	    </ol>
     </details>
     <details>
