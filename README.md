@@ -237,7 +237,6 @@
 <details>
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
 	<ol>
-    - Short-Rofi add more Cheat sheet<br>
     - <a href="https://github.com/Komorebi-Fork/komorebi/tree/master">Komorebi</a> <i>remove trash can</i><br>
     - work with <a href="https://github.com/jikan-me/jikan">jikan</a><br>
     - beautiful Website<br>
@@ -245,7 +244,6 @@
     - 2 Android apps<br>
     - written nice commits 😆<br>
     - clean my Room 😅<br>
-    - finish Locktober 🔒<br>
     - and <a href="https://t.me/diyIdeeandra">more</a>
     </ol>
 </details>
