@@ -248,6 +248,7 @@
     - work with <a href="https://github.com/jikan-me/jikan">jikan</a><br>
     - beautiful Website<br>
     - Lilygo t-watch 2020<br>
+    - better TVheadend<br>
     - 2 Android apps<br>
     - written nice commits 😆<br>
     - clean my Room 😅<br>
