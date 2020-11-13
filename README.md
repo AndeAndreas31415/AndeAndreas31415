@@ -70,7 +70,7 @@
     		</tr>
     		<tr>
     			<td>Delicious in Dungeon</td>
-            	<td><div align="center">1</div></td>
+            	<td><div align="center">1-3</div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
     		</tr>
     		<tr>
@@ -100,7 +100,7 @@
     		</tr>
             <tr>
     			<td>Kaguya-sama: Love is ware</td>
-            	<td><div align="center">1</div></td>
+            	<td><div align="center">1-2 </div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
     		</tr>
     		<tr>
@@ -117,6 +117,11 @@
     			<td>Love and Lies</td>
             	<td><div align="center">1-5</div></td>
     			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>No Exit</td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
     		</tr>
     		<tr>
     			<td>Nur du darfst mich fesseln</td>
@@ -240,6 +245,7 @@
     		</tr>
     	</table>
 </details></ol></details>
+
 
 <details>
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
