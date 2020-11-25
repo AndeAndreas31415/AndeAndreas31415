@@ -98,7 +98,7 @@
             	<td><div align="center">1-5</div></td>
     			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
     		</tr>
-            <tr>
+		<tr>
     			<td>Kaguya-sama: Love is ware</td>
             	<td><div align="center">1-2 </div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
@@ -142,6 +142,11 @@
     			<td>Weathering with you</td>
             	<td><div align="center">Roman</div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
+    		</tr>
+    		<tr>
+    			<td>Wir beide</td>
+            	<td><div align="center">1</div></td>
+    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
     		</tr>
     		<tr>
     			<td>You shine in the Moonlight</td>
