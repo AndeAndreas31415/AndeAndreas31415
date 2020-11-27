@@ -260,7 +260,7 @@
     - beautiful Website<br>
     - Lilygo t-watch 2020<br>
     - better TVheadend<br>
-    - 2 Android apps<br>
+    - 3 Android apps<br>
     - written nice commits 😆<br>
     - clean my Room 😅<br>
     - and <a href="https://t.me/diyIdeeandra">more</a>
