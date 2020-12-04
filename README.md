@@ -65,7 +65,7 @@
     		</tr>
     		<tr>
     			<td>Citrus</td>
-            	<td><div align="center">1-5</div></td>
+            	<td><div align="center">1-6</div></td>
     			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
     		</tr>
     		<tr>
@@ -100,7 +100,7 @@
     		</tr>
 		<tr>
     			<td>Kaguya-sama: Love is ware</td>
-            	<td><div align="center">1-2 </div></td>
+            	<td><div align="center">1-4</div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
     		</tr>
     		<tr>
@@ -130,7 +130,7 @@
     		</tr>
     		<tr>
     			<td>Soul Eater Massiv </td>
-            	<td><div align="center">1</div></td>
+            	<td><div align="center">1-2</div></td>
     			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
     		</tr>
     		<tr>
@@ -185,7 +185,7 @@
     		</tr>
     		<tr>
     			<td>Danmachi</td>
-    			<td><div align="center">Season 1+Season 2(Volume 1+2)</div></td>
+    			<td><div align="center">Season 1+Season 2(Volume 1-3)</div></td>
             	<td><div align="right"><a href="https://anime-sugoi.de">Anime House</a></div></td>
     		</tr>
     		<tr>
@@ -243,6 +243,11 @@
     			<td><div align="center">Film</div></td>
             	<td><div align="right"><a href="https://www.amazon.de/gp/product/B000S6EMVE">buy at Amazon</a></div></td>
     		</tr>
+		<tr>
+			<td>Terror in Tokio</td>
+			<td><div align="center">Season 1</div></td>
+		<td><div align="right"><a href="">I don't know</a></div></td>
+		</tr>
     		<tr>
     			<td>Weathering with you</td>
     			<td><div align="center">Film</div></td>
@@ -250,8 +255,6 @@
     		</tr>
     	</table>
 </details></ol></details>
-
-
 <details>
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
 	<ol>
@@ -267,5 +270,4 @@
     </ol>
 </details>
 <div align="center"><h1><u><b><i> All is Work in process </i></b></u></h1></div>
-
 <p align="center"><a href="t.me/anno_pi"><img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;" /></a> <img src="https://img.shields.io/badge/Version-Alpha-yellow" style="zoom:150%;" /></p>
