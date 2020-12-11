@@ -70,7 +70,7 @@
     		</tr>
     		<tr>
     			<td>Delicious in Dungeon</td>
-            	<td><div align="center">1-3</div></td>
+            	<td><div align="center">1-5</div></td>
     			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
     		</tr>
     		<tr>
