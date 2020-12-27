@@ -261,6 +261,7 @@
     - <a href="https://github.com/Komorebi-Fork/komorebi/tree/master">Komorebi</a> <i>remove trash can</i><br>
     - work with <a href="https://github.com/jikan-me/jikan">jikan</a><br>
     - beautiful Website<br>
+    - porting to linux <a href="https://github.com/gil/shimeji-ee">shimeji-ee a Desktop Pet</a><br/>
     - Lilygo t-watch 2020<br>
     - better TVheadend<br>
     - 3 Android apps<br>
