@@ -18,7 +18,6 @@
 		 -  Schulmädchen report (planet Manga)<br>
 		 -  Goblin slayer (Altraverse)<br>
 		 -  Solo Leveling (Altraverse)<br>
-		 -  Attack on Titan Band (Carlsen)<br>
 		 -  Fairy Tail (Carlsen)<br>
 		 -  Dr. Stone (Carlsen)<br>
 		 -  Fullmetal Alchemist Metal Edition (Altraverse)<br>
