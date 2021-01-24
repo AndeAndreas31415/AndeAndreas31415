@@ -184,7 +184,7 @@
     		</tr>
     		<tr>
     			<td>Danmachi</td>
-    			<td><div align="center">Season 1+Season 2(Volume 1-3)</div></td>
+    			<td><div align="center">Season 1-2</div></td>
             	<td><div align="right"><a href="https://anime-sugoi.de">Anime House</a></div></td>
     		</tr>
     		<tr>
