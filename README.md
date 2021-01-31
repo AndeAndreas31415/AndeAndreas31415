@@ -5,9 +5,9 @@
 ## About me:
 
 - 20 years old
-- from Saxony , Germany
+- from Germany
 - ❤️ Anime and Manga や
-- [Favourite Music](https://www.youtube.com/playlist?list=PL4RUzjZMaUOWz5a1PEn0uYL1g_P02OPQN)
+- [Favourite Music](https://andranux.de/main.html)
 
 <details>
 	<summary>Manga / Anime</summary>
@@ -19,14 +19,12 @@
 		 -  Goblin slayer (Altraverse)<br>
 		 -  Solo Leveling (Altraverse)<br>
 		 -  Fairy Tail (Carlsen)<br>
-		 -  Dr. Stone (Carlsen)<br>
 		 -  Fullmetal Alchemist Metal Edition (Altraverse)<br>
 		 -  Kemono Jihen (altravers)<br>
 		 -  your name (Leonine)<br>
 		 -  silence voice<br>
 		 -  Stein;Gate<br>
 		 -  Bloom into you (KSM Anime)<br>
-		 -  Citrus (Kaze)<br>
 		 -  The Irregular at Magic High School (KSM Anime)<br>
 		 -  Cowboy Bebop - Gesamtausgabe (Nipponart)<br>
 		 -  Spriggan<br>
