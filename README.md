@@ -34,7 +34,7 @@
     </details>
     <details>
     	<summary><b>Manga:</b></summary>
-    	<iframe width="1000" height="315" src="https://andranux.de/weeb/manga" title="manga"></iframe>
+    	<a href="https://andranux.de/weeb/manga">https://andranux.de/weeb/manga</a>
     </details>
     <details>
     	<summary><b>Anime:</b></summary>
