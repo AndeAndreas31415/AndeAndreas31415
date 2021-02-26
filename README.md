@@ -11,7 +11,7 @@
 
 <details>
 	<summary>Manga / Anime</summary>
-    <ol>
+  <ol>
     <details>
 	    <summary><u>Wishes:</u></summary>
 	    <ol>
@@ -34,128 +34,7 @@
     </details>
     <details>
     	<summary><b>Manga:</b></summary>
-    	<table>
-    		<tr>
-    			<td><b>Name</b></td>
-            	<td><div align="center"><b>Band / Edition</b></div></td>
-            	<td><div align="right"><b>Publisher</b></div></td>
-    		</tr>
-    		<tr>
-    			<td>Arte</td>
-        	    <td><div align="center">1-3</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Bloom into you</td>
-            	<td><div align="center">1-8</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Blue Exorcist</td>
-            	<td><div align="center">1-3</div></td>
-    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Bottom-Tier</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://yenpress.com/">Yen On</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Citrus</td>
-            	<td><div align="center">1-6</div></td>
-    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Delicious in Dungeon</td>
-            	<td><div align="center">1-5</div></td>
-    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Die Braut des Magiers</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Elfen Lied</td>
-            	<td><div align="center">1-2</div></td>
-    			<td><div align="right"><a href="https://www.tokyopop.de/"> Tokyo Pop </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Goblin Slayer (The singing Death)</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>I am Sherlock</td>
-            	<td><div align="center">1-4</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Is it wrong to pick up Girls in a Dungeon</td>
-            	<td><div align="center">1-5</div></td>
-    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-    		</tr>
-		<tr>
-    			<td>Kaguya-sama: Love is ware</td>
-            	<td><div align="center">1-4</div></td>
-    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Leseprobe</td>
-            	<td><div align="center">free reading sample</div></td>
-    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Leseprobe Oktober_2020 - März_2021</td>
-            	<td><div align="center">free reading sample</div></td>
-    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Love and Lies</td>
-            	<td><div align="center">1-5</div></td>
-    			<td><div align="right"><a href="https://www.kaze-online.de/"> Kaze </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>No Exit</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Nur du darfst mich fesseln</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://altraverse.de/"> Altraverse </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Soul Eater Massiv </td>
-            	<td><div align="center">1-2</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Uzumaki</td>
-            	<td><div align="center">Delux Edition</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Weathering with you</td>
-            	<td><div align="center">Roman</div></td>
-    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Wir beide</td>
-            	<td><div align="center">1</div></td>
-    			<td><div align="right"><a href="https://www.carlsen.de/manga"> Carlsen </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>You shine in the Moonlight</td>
-            	<td><div align="center">1-2</div></td>
-    			<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Your Name</td>
-            	<td><div align="center">1-3</div></td>
-            	<td><div align="right"><a href="https://www.egmont-manga.de/"> Egmont </a></div></td>
-    		</tr>
-        </table>
+    	<iframe width="1000" height="315" src="https://andranux.de/weeb/manga" title="manga"></iframe>
     </details>
     <details>
     	<summary><b>Anime:</b></summary>
@@ -240,18 +119,20 @@
     			<td><div align="center">Film</div></td>
             	<td><div align="right"><a href="https://www.amazon.de/gp/product/B000S6EMVE">buy at Amazon</a></div></td>
     		</tr>
-		<tr>
-			<td>Terror in Tokio</td>
-			<td><div align="center">Season 1</div></td>
-		<td><div align="right"><a href="">I don't know</a></div></td>
-		</tr>
+				<tr>
+					<td>Terror in Tokio</td>
+					<td><div align="center">Season 1</div></td>
+					<td><div align="right"><a href="">I don't know</a></div></td>
+				</tr>
     		<tr>
     			<td>Weathering with you</td>
     			<td><div align="center">Film</div></td>
             	<td><div align="right"><a href="https://www.amazon.de/Weathering-You-Mädchen-berührte-Blu-ray/dp/B082PRBMQP">buy at Amazon</a></div></td>
     		</tr>
     	</table>
-</details></ol></details>
+		</details>
+	</ol>
+</details>
 <details>
 	<summary><u>in Planning</u> / <u>Goals:</u></summary>
 	<ol>
@@ -267,13 +148,6 @@
     - and <a href="https://t.me/diyIdeeandra">more</a>
     </ol>
 </details>
-<div align="center"><a href="https://andranux.de/spenden.html"><h1><u><i> Support </i><br><b><i> All is Work in process </i></b></u></h1></a></div>
+<div align="center"><a href="https://andranux.de/404/support.html"><h1><u><i> Support </i><br><b><i> All is Work in process </i></b></u></h1></a></div>
 
 <p align="center"><a href="t.me/anno_pi"><img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;" ></a> <img src="https://img.shields.io/badge/Version-Alpha%2FBeta-yellow" style="zoom:150%;" > <a href="https://matrix.to/#/%40anno2405%3Amatrix.org"><img src="https://img.shields.io/badge/Matrix-%40anno2405%3Amatrix.org-white" style="zoom:150%;"></a> <a href="mailto:andreas_coding@gmx.de"><img src="https://img.shields.io/badge/Email-andreas__coding%40gmx.de-brown" style="zoom:150%;"></a></p>
-
-
-
-
-
-
-
