@@ -34,102 +34,11 @@
     </details>
     <details>
     	<summary><b>Manga:</b></summary>
-    	<a href="https://andranux.de/weeb/manga">https://andranux.de/weeb/manga</a>
+    	<a href="https://andranux.de/weeb/manga.html">https://andranux.de/weeb/manga.html</a>
     </details>
     <details>
     	<summary><b>Anime:</b></summary>
-    	<table>
-    		<tr>
-    			<td><b>Name</b></td>
-    			<td><div align="center"><b>Season / Volume / Film</b></div></td>
-            	<td><div align="right"><b>Publisher</b></div></td>
-    		</tr>
-    		<tr>
-    			<td>Arrietty</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/Arrietty-Die-wundersame-Welt-Borger/dp/B005BZ6NAA">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Bakemonogatari</td>
-    			<td><div align="center">Staffel 1</div></td>
-            	<td><div align="right"><a href="http://http://peppermint-anime.de">Peppermint</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Beyond the Boundary</td>
-    			<td><div align="center">Season 1</div></td>
-            	<td><div align="right"><a href="https://www.kaze-online.de">Kaze</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Danmachi</td>
-    			<td><div align="center">Season 1-2</div></td>
-            	<td><div align="right"><a href="https://anime-sugoi.de">Anime House</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Das Königreich der Katzen</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/Das-Königreich-Katzen-Aoi-Hiiragi/dp/B000N68IQ4">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Evangelion: 1.11</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B0037KVHNY">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Evangelion: 2.22</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B00377IRUS">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Evangelion: 3.33</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B00EZCVFGC">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Ghost in the shell (25 Jahr Jubiläums-Edition)</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B07FDMZ244">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Ghost in the shell (Solid State Society)</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B07FDT8PHJ">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Ghost in the shell (2.0)</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B07FDKWV56">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Ghost in the shell (Stand Alone Complex)</td>
-    			<td><div align="center">Season 1</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B00QX8ASHS">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Kikis kleiner Lieferservice</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/Kikis-kleiner-Lieferservice-Shigeo-Sugimura/dp/B000BNUXNU">buy at Amazon</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>No game no life (Imanity Limited Edition)</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://anime-planet.de">KSM</a></div></td>
-    		</tr>
-    		<tr>
-    			<td>Paprika</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/gp/product/B000S6EMVE">buy at Amazon</a></div></td>
-    		</tr>
-				<tr>
-					<td>Terror in Tokio</td>
-					<td><div align="center">Season 1</div></td>
-					<td><div align="right"><a href="">I don't know</a></div></td>
-				</tr>
-    		<tr>
-    			<td>Weathering with you</td>
-    			<td><div align="center">Film</div></td>
-            	<td><div align="right"><a href="https://www.amazon.de/Weathering-You-Mädchen-berührte-Blu-ray/dp/B082PRBMQP">buy at Amazon</a></div></td>
-    		</tr>
-    	</table>
+			<a href="https://andranux.de/weeb/anime.html">https://andranux.de/weeb/anime.html</a>
 		</details>
 	</ol>
 </details>
