@@ -10,6 +10,7 @@
 - ❤️ Anime and Manga や
 - [Favourite Music](https://andranux.de/main.html)
 
+<br>
 <details>
 	<summary>Manga / Anime</summary>
   <ol>
@@ -48,7 +49,7 @@
     	</a>
     </h1>
 </div>
-
+<br>
 
 <p align="center">
     <a href="t.me/anno_pi">
