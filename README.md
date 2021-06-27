@@ -3,6 +3,7 @@
 # Hello 👋 I am [Andranux](https://andranux.de/)
 
 ## About me:
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/FHgy6.gif">
 
 - 21 years old
 - from Germany
@@ -47,6 +48,7 @@
     	</a>
     </h1>
 </div>
+
 
 <p align="center">
     <a href="t.me/anno_pi">
