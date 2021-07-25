@@ -15,24 +15,6 @@
 	<summary>Manga / Anime</summary>
   <ol>
     <details>
-	    <summary><u>Wishes:</u></summary>
-	    <ol>
-		 -  Goblin slayer (Altraverse)<br>
-		 -  Solo Leveling (Altraverse)<br>
-		 -  Fairy Tail (Carlsen)<br>
-		 -  Fullmetal Alchemist Metal Edition (Altraverse)<br>
-		 -  Kemono Jihen (altravers)<br>
-		 -  your name (Leonine)<br>
-		 -  silence voice<br>
-		 -  Stein;Gate<br>
-		 -  The Irregular at Magic High School (KSM Anime)<br>
-		 -  Cowboy Bebop - Gesamtausgabe (Nipponart)<br>
-		 -  Spriggan<br>
-		 -  Perfect Blue<br>
-		 -  No Game No Life Season2 ;-)
-	    </ol>
-    </details>
-    <details>
     	<summary><b>Manga:</b></summary>
     	<a href="https://andranux.de/weeb/manga.html">https://andranux.de/weeb/manga.html</a>
     </details>
