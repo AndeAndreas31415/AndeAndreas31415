@@ -7,23 +7,10 @@
 
 - 21 years old
 - from Germany
-- ❤️ Anime and Manga や
+- ❤️ [Anime](https://andranux.de/weeb/anime.html) and [Manga](https://andranux.de/weeb/manga.html) や
 - [Favourite Music](https://andranux.de/main.html)
 
 <br>
-<details>
-	<summary>Manga / Anime</summary>
-  <ol>
-    <details>
-    	<summary><b>Manga:</b></summary>
-    	<a href="https://andranux.de/weeb/manga.html">https://andranux.de/weeb/manga.html</a>
-    </details>
-    <details>
-    	<summary><b>Anime:</b></summary>
-			<a href="https://andranux.de/weeb/anime.html">https://andranux.de/weeb/anime.html</a>
-		</details>
-	</ol>
-</details>
 <div align="center">
     <h1>
     	<a href="https://andranux.de/relevant/support.html">
