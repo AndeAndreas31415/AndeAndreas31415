@@ -21,9 +21,6 @@
 <br>
 
 <p align="center">
-    <a href="t.me/anno_pi">
-        <img src="https://img.shields.io/badge/Telegram-Anno__pi-0088cc" style="zoom:150%;">
-    </a>
     <img src="https://img.shields.io/badge/Version-Beta%20Femboy-yellow" style="zoom:150%;">
     <a href="https://matrix.to/#/%40anno2405%3Amatrix.org">
         <img src="https://img.shields.io/badge/Matrix-%40anno2405%3Amatrix.org-white" style="zoom:150%;">
