@@ -5,7 +5,7 @@
 ## About me:
 <img alt="GIF" align="right" src="https://i.imgur.com/FHgy6.gif">
 
-- 21 years old
+- 22 years old
 - from Germany
 - ❤️ [Anime](https://andranux.de/weeb/anime.html) and [Manga](https://andranux.de/weeb/manga.html) や
 - [Favourite Music](https://andranux.de/main.html)
