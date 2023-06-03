@@ -5,7 +5,7 @@
 <div>
     <img alt="GIF" align="right" src="cat.gif"><br>
     <h2>About me:</h2>
-    <li>22 years old</li>
+    <li>23 years old</li>
     <li>from Germany</li>
     <li>Non-binary 🏳️‍🌈</li>
     <li>Watching <a href="https://andranux.de/weeb/anime.html" >Anime</a></li>
