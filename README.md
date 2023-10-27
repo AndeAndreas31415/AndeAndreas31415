@@ -1,5 +1,5 @@
 # <div align="center"><b>Crazy you found me</b></div>
-
+# <div align="center"><a href="https://codeberg.org/Andranux"><b>But you're too late, I moved to <u>Codeberg</u>.</b></a></div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Secular+One&size=35&pause=2000&color=00FF00D0&center=true&vCenter=true&width=440&lines=+Hello+%F0%9F%91%8B+I+am+Andranux)](https://andranux.de)
 
 <div>
